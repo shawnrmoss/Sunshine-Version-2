@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Sunshine</string>
-    <string name="hello_world">Shawn Moss says Hello world! And here is another changes</string>
+    <string name="hello_world">Shawn Moss says Hello world! And here is another changed</string>
     <string name="action_settings">Settings</string>
 
 </resources>
